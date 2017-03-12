@@ -1,5 +1,8 @@
 # :cn: zh-CN & zh-Hans
 
+https://gist.github.com/xgqfrms-GitHub/b95f1824f2ea5a2e28b09dff6fd191bc  
+
+
 # Style Guide
 
 
